@@ -6,7 +6,7 @@
 ### <div align="center">I'm Lucas Forato. I am a passionate backend developer based in Brazil.</div>  
   
 
-- 🔭 I’m currently working on [Education Journey](https://www.education-journey.com/home)  
+- 🔭 I’m currently working at [SOAP Health](https://soap.health/)  
   
 
 - ❓ Ask me about anything related to REST or GraphQL  
